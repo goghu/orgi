@@ -1,0 +1,2032 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"wel",
+				"welcome"
+			],
+			[
+				"actu",
+				"actualiza_persona"
+			],
+			[
+				"id_",
+				"id_per"
+			],
+			[
+				"datos",
+				"datos_form_persona"
+			],
+			[
+				"pro",
+				"propietarios"
+			],
+			[
+				"requ",
+				"request\t(EventosController.php)"
+			],
+			[
+				"he",
+				"height\tAttr"
+			],
+			[
+				"kc",
+				"kcb"
+			],
+			[
+				"es",
+				"es_extrangero"
+			],
+			[
+				"elim",
+				"eliminado_duplicados($dm)\tmixed"
+			],
+			[
+				"arreg",
+				"arregla_reproductores"
+			],
+			[
+				"dato",
+				"dato_pasar"
+			],
+			[
+				"arregla",
+				"arregla_eventos"
+			],
+			[
+				"auto",
+				"autoRender"
+			],
+			[
+				"Masco",
+				"Mascota"
+			],
+			[
+				"du",
+				"dup_repo"
+			],
+			[
+				"repro",
+				"reproductor_id"
+			],
+			[
+				"Mas",
+				"Mascota"
+			],
+			[
+				"mas_",
+				"mas_ti"
+			],
+			[
+				"arre",
+				"arregla_propietarios\t(MascotasController.php)"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"nom",
+				"nombre"
+			],
+			[
+				"mas",
+				"mascotas"
+			],
+			[
+				"nombre",
+				"nombre_completo"
+			],
+			[
+				"cria",
+				"criaderos"
+			],
+			[
+				"propi",
+				"propietario\t(duplicados_kcb.ctp)"
+			],
+			[
+				"b",
+				"byebug_history"
+			],
+			[
+				"sucursal",
+				"sucursal_id"
+			],
+			[
+				"sucurs",
+				"sucursals"
+			],
+			[
+				"re",
+				"recursive"
+			],
+			[
+				"can",
+				"cantidad_personas"
+			],
+			[
+				"tran",
+				"transaccione_params"
+			],
+			[
+				"tra",
+				"transaccione_params"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/views/layouts/application.html.erb",
+			"settings":
+			{
+				"buffer_size": 952,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "config/database.yml",
+			"settings":
+			{
+				"buffer_size": 646,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/controllers/productos_controller.rb",
+			"settings":
+			{
+				"buffer_size": 2432,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/datatables/producto_datatable.rb",
+			"settings":
+			{
+				"buffer_size": 1172,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": ".gitignore",
+			"settings":
+			{
+				"buffer_size": 582,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "config/routes.rb",
+			"settings":
+			{
+				"buffer_size": 982,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "config/environments/development.rb",
+			"settings":
+			{
+				"buffer_size": 1983,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Gemfile",
+			"settings":
+			{
+				"buffer_size": 2085,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/productos/index.html.erb",
+			"settings":
+			{
+				"buffer_size": 1902,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 320.0,
+		"last_filter": "list",
+		"selected_items":
+		[
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"lis",
+				"Package Control: List Packages"
+			],
+			[
+				"package control",
+				"Package Control: Install Package"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			],
+			[
+				"package in",
+				"Package Control: Install Package"
+			],
+			[
+				"git s",
+				"Git: Status"
+			],
+			[
+				"Package Control: instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Disable Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: isn",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 568.0
+	},
+	"console":
+	{
+		"height": 152.0,
+		"history":
+		[
+			"git",
+			"ls"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/ruby/stick",
+		"/C/ruby/stick/app",
+		"/C/ruby/stick/app/datatables"
+	],
+	"file_history":
+	[
+		"/C/ruby/procesos_umsa/p_u.code-workspace",
+		"/C/ruby/stick/config/database.yml",
+		"/C/ruby/stick/Gemfile",
+		"/C/ruby/logueo/app/views/layouts/application.html.erb",
+		"/C/php/kennel/app/View/Layouts/c_exportacion.ctp",
+		"/C/ruby/procesos_umsa/app/views/personas/emisioncertf.html.erb",
+		"/C/ruby/procesos_umsa/app/views/personas/imprimir.rails",
+		"/C/ruby/procesos_umsa/app/controllers/denuncia_controller.rb",
+		"/C/php/kennel/app/View/Propietarios/listadopendientes.ctp",
+		"/C/php/kennel/app/Controller/DenunciaservicioController.php",
+		"/C/php/kennel/app/Controller/MascotasController.php",
+		"/C/php/kennel/app/View/Mascotas/index.ctp",
+		"/C/php/kennel/app/Controller/PropietariosController.php",
+		"/C/php/kennel/app/View/Eventos/insertar.ctp",
+		"/C/php/kennel/app/View/Eventos/edita.ctp",
+		"/C/php/kennel/app/View/Mascotas/listapendientes.ctp",
+		"/C/ruby/procesos_umsa/app/views/denuncia/new.html.erb",
+		"/C/ruby/procesos_umsa/app/controllers/application_controller.rb",
+		"/C/ruby/procesos_umsa/db/migrate/20180411183519_add_ap_paterno_to_personas.rb",
+		"/C/php/kennel/app/Model/Propietario.php",
+		"/C/php/kennel/app/Model/Mascota.php",
+		"/C/php/kennel/app/View/Usuarios/inscripcion.ctp",
+		"/C/php/kennel/app/View/Eventos/catalogo_inicial.ctp",
+		"/C/php/kennel/app/View/Users/login.ctp",
+		"/C/php/kennel/app/View/Mascotas/duplicados_kcb.ctp",
+		"/C/php/kennel/app/Controller/UsuariosController.php",
+		"/C/php/kennel/app/View/Usuarios/insertarservicio.ctp",
+		"/C/php/kennel/app/Model/Usuario.php",
+		"/C/ruby/ucasos/ucasos.sublime-project",
+		"/C/ruby/igastos/config/routes.rb",
+		"/C/ruby/igastos/app/views/tareas/index.html.erb",
+		"/C/ruby/igastos/.gitignore",
+		"/C/ruby/ucasos/app/controllers/personas_controller.rb",
+		"/C/ruby/ucasos/app/controllers/cargos_controlle.rb",
+		"/C/Users/crist/AppData/Roaming/Sublime Text 3/Packages/User/QuickFileOpen.sublime-settings",
+		"/C/Users/crist/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/crist/AppData/Roaming/Sublime Text 3/Packages/User/cargos_controlle.rb",
+		"/C/Users/crist/AppData/Roaming/Sublime Text 3/Packages/FileFinder/FileFinder.sublime-settings",
+		"/C/ruby/ucasos/proySublime.sublime-project",
+		"/C/ruby/igastos/app/controllers/transacciones_controller.rb",
+		"/C/ruby/igastos/app/views/transacciones/index.html.erb",
+		"/C/Users/crist/Downloads/templates/admin/monster-template/main/index4.html",
+		"/C/ruby/igastos/app/assets/javascripts/moment.js",
+		"/C/php/contador/index.php",
+		"/C/Users/crist/Desktop/crt.php",
+		"/C/Users/crist/Documents/trabajo/vergara/contador/index.php",
+		"/C/ruby/igastos/app/controllers/categories_controller.rb"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 147.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/views/layouts/application.html.erb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 952,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								408,
+								408
+							]
+						],
+						"settings":
+						{
+							"SL.14.region_keys":
+							[
+							],
+							"SL.58.region_keys":
+							[
+							],
+							"auto_complete": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										406,
+										407
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/tag.png",
+										"region.orangish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										363,
+										364
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Rails/HTML (Rails).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "config/database.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 646,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								298,
+								298
+							]
+						],
+						"settings":
+						{
+							"SL.15.region_keys":
+							[
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/YAML/YAML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/controllers/productos_controller.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2432,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								241,
+								241
+							]
+						],
+						"settings":
+						{
+							"SL.16.region_keys":
+							[
+							],
+							"SL.74.region_keys":
+							[
+								"SL.rubylint.Highlights.|8bf321559a9a862f576035f903113059dfd189e10d355ce98b5e5f16297b8abf|region.redish markup.deleted.sublime_linter markup.error.sublime_linter|32",
+								"SL.rubylint.Highlights.|add02f78a3c382c9588591e19c50cf8650adbd3633acfcc538fd370b26600f5c|region.redish markup.deleted.sublime_linter markup.error.sublime_linter|32",
+								"SL.rubylint.Highlights.|6edc5a0ee9f30dc898260ddd3185b2ca3717479c35139045d22ff5483a1c5375|region.redish markup.deleted.sublime_linter markup.error.sublime_linter|32",
+								"SL.rubylint.Highlights.|90b41e468a4b6c8e3214d0d79d9c51b77b2e3417d54b320e6f43d8204ab53872|region.redish markup.deleted.sublime_linter markup.error.sublime_linter|32",
+								"SL.rubylint.Highlights.|00a2af9d3df5ba12ce99e7b8c3df21cd6d5a88bc4be5d46fdbb513e81a78ae37|region.redish markup.deleted.sublime_linter markup.error.sublime_linter|32",
+								"SL.rubylint.Highlights.|254f253de351fd7c56179a1a3a72f7a09831e8769040c8eee539c9619ab605a7|region.redish markup.deleted.sublime_linter markup.error.sublime_linter|32",
+								"sublime_linter.protected_regions",
+								"SL.rubylint.Highlights.|2f64bf2ee380a37db0d034170fa892f6f1114b52b2541e5fa4a5388df3358ab3|region.redish markup.deleted.sublime_linter markup.error.sublime_linter|32",
+								"SL.rubylint.Highlights.|f5c8c51d64f2df8451645de7379391add998e93e3943834638ed8f97b2c175c5|region.redish markup.deleted.sublime_linter markup.error.sublime_linter|32",
+								"SL.rubylint.Highlights.|30e4940f6735885c53eed02705056a036687a885f40babbc71513338cb5fbe99|region.redish markup.deleted.sublime_linter markup.error.sublime_linter|32",
+								"SL.rubylint.Gutter.|region.redish markup.deleted.sublime_linter markup.error.sublime_linter|dot",
+								"SL.rubylint.Highlights.|977eb4393fea65bf99befc29f5c0ef3ce12f3f9c5dec19b3a3591169b68e16c1|region.redish markup.deleted.sublime_linter markup.error.sublime_linter|32"
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										315,
+										318
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/dot.png",
+										"region.yellowish brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										210,
+										212
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/datatables/producto_datatable.rb",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1172,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								505,
+								505
+							]
+						],
+						"settings":
+						{
+							"SL.17.region_keys":
+							[
+								"SL.rubylint.Highlights.|bbbbcdb23fc24aa82bda407179eb4471b660528a567d61e225f1081aa120c0e3|region.redish markup.error.sublime_linter|32",
+								"SL.rubylint.Highlights.|bd9e51039ec377adde4fdd1266cb6a2360d7f836071df57071d917c77419bafb|region.redish markup.error.sublime_linter|32",
+								"sublime_linter.protected_regions",
+								"SL.rubylint.Highlights.|99cc828e411c5e8022fab9c87d380c30762bf570089e77d94827dc4beacc8880|region.redish markup.error.sublime_linter|32",
+								"SL.rubylint.Gutter.|region.redish markup.error.sublime_linter|dot"
+							],
+							"SL.76.region_keys":
+							[
+								"SL.rubylint.Highlights.|99cc828e411c5e8022fab9c87d380c30762bf570089e77d94827dc4beacc8880|region.redish markup.deleted.sublime_linter markup.error.sublime_linter|32",
+								"SL.rubylint.Highlights.|bbbbcdb23fc24aa82bda407179eb4471b660528a567d61e225f1081aa120c0e3|region.redish markup.deleted.sublime_linter markup.error.sublime_linter|32",
+								"SL.rubylint.Gutter.|region.redish markup.deleted.sublime_linter markup.error.sublime_linter|dot",
+								"SL.rubylint.Highlights.|bd9e51039ec377adde4fdd1266cb6a2360d7f836071df57071d917c77419bafb|region.redish markup.deleted.sublime_linter markup.error.sublime_linter|32",
+								"sublime_linter.protected_regions"
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										734,
+										735
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"region.purplish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										551,
+										552
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										746,
+										749
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/dot.png",
+										"region.yellowish brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										508,
+										511
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": ".gitignore",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 582,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								581,
+								581
+							]
+						],
+						"settings":
+						{
+							"SL.18.region_keys":
+							[
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/zzz A File Icon zzz/aliases/Shell Script (Git).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "config/routes.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 982,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								157,
+								157
+							]
+						],
+						"settings":
+						{
+							"SL.19.region_keys":
+							[
+							],
+							"SL.64.region_keys":
+							[
+								"SL.rubylint.Highlights.|8e6290ff07ec7731afcba024c462788d6d83effadfcc0d897756075b6ff679f8|region.redish markup.deleted.sublime_linter markup.error.sublime_linter|32",
+								"SL.rubylint.Highlights.|bbb990ad8ab639034fc17ce38688b2413124adc13f8f049aa37c5e200dce54a0|region.redish markup.deleted.sublime_linter markup.error.sublime_linter|32",
+								"SL.rubylint.Highlights.|26c117a88cf0ec7b5e2452f3f392d47b7c5c7d77586d4e8f7f74c0714c2d13ce|region.redish markup.deleted.sublime_linter markup.error.sublime_linter|32",
+								"SL.rubylint.Highlights.|21188e0b6779498fd5e8a871ae6c1b870e877042ce1b26fccb26eff11826269f|region.redish markup.deleted.sublime_linter markup.error.sublime_linter|32",
+								"sublime_linter.protected_regions",
+								"SL.rubylint.Highlights.|001d4a78805e97a35d8142fc81a44a8cfb7561a965e77e7022d915eaf8da1129|region.redish markup.deleted.sublime_linter markup.error.sublime_linter|32",
+								"SL.rubylint.Highlights.|d6c7b2dbdbd7913ed4a9747ee563b79e896d4f2a5b079f85ba73512b1dac1d21|region.redish markup.deleted.sublime_linter markup.error.sublime_linter|32",
+								"SL.rubylint.Highlights.|2a2113c0e6a4b6b6a40673e977ae3a395a9478420e7fa0fce72082d7643d4530|region.redish markup.deleted.sublime_linter markup.error.sublime_linter|32",
+								"SL.rubylint.Highlights.|3a728460f8e7dbd17e5094bd14cd63f3a8d0c26cf4101876f286ca5b8448c47a|region.redish markup.deleted.sublime_linter markup.error.sublime_linter|32",
+								"SL.rubylint.Highlights.|dc0a051d8898eae2fdc5b5fcacb71325507086116060a0fa03b5920a60892482|region.redish markup.deleted.sublime_linter markup.error.sublime_linter|32",
+								"SL.rubylint.Highlights.|6f64af914ec0ae1a1f3ca09711f9d0dc23d7d4844fcc12f2dd0337f2428ad7be|region.redish markup.deleted.sublime_linter markup.error.sublime_linter|32",
+								"SL.rubylint.Highlights.|29b9322e7d87dc1923b874c0dfb19ca5d9e151404f5faedc5cc35bb253eb04ff|region.redish markup.deleted.sublime_linter markup.error.sublime_linter|32",
+								"SL.rubylint.Highlights.|01da9295d4a89cd00de65434e940dc0364601dafb7702a0d3b5477d388c36e6a|region.redish markup.deleted.sublime_linter markup.error.sublime_linter|32",
+								"SL.rubylint.Highlights.|1c4c237a5013c13036142a7f0090345ad9cd72da70114b25d9a134f4d12ed85a|region.redish markup.deleted.sublime_linter markup.error.sublime_linter|32",
+								"SL.rubylint.Gutter.|region.redish markup.deleted.sublime_linter markup.error.sublime_linter|dot"
+							],
+							"auto_complete": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										978,
+										981
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/dot.png",
+										"region.yellowish brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										30,
+										32
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 6,
+					"file": "config/environments/development.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1983,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								111,
+								111
+							]
+						],
+						"settings":
+						{
+							"SL.20.region_keys":
+							[
+								"SL.rubylint.Highlights.|298197e8c5235e67805897017304e41ca4fd3a73231b3ceec5250141b8c6f7ef|region.redish markup.error.sublime_linter|32",
+								"SL.rubylint.Highlights.|aa43687816b8432bf5b5d317ab9f115b2271ce7c346ebd131274ca145a51846b|region.redish markup.error.sublime_linter|32",
+								"SL.rubylint.Highlights.|f51cf221dcef42b30c033f4b15ae89b5aae687a19c9a4423cddccdd289d0f5b0|region.redish markup.error.sublime_linter|32",
+								"SL.rubylint.Highlights.|965c2bc0c1bddd74947b1bb5b297f53e251f83edbeab00e84b72b9a0be6e4126|region.redish markup.error.sublime_linter|32",
+								"SL.rubylint.Gutter.|region.redish markup.error.sublime_linter|dot",
+								"SL.rubylint.Highlights.|27458164e2e966e30457e4f3fb3cd7eebc03d48e61a3233873edcde9f328827b|region.redish markup.error.sublime_linter|32",
+								"SL.rubylint.Highlights.|714ecfc274dcee9ca2094a476bef38d7fb7233a087920ca95b76553033a3994f|region.redish markup.error.sublime_linter|32",
+								"SL.rubylint.Highlights.|cefcefc465dfb69c09607a58925f1717859788c1c89d6656c9088c7c4db4189d|region.redish markup.error.sublime_linter|32",
+								"SL.rubylint.Highlights.|41badd1164e49833553485e9456f48a5aa78862908ddc077fd9ef819fd3e33f2|region.redish markup.error.sublime_linter|32",
+								"SL.rubylint.Highlights.|1725a00aba254fd5a26af14d3ff39c56987b10d80ab2d5113e2b26adcdaba769|region.redish markup.error.sublime_linter|32",
+								"SL.rubylint.Highlights.|156cf3a1fd39728ec40af3f1f7a6a82792027fff1bb0ecc8be18996711600caa|region.redish markup.error.sublime_linter|32",
+								"SL.rubylint.Highlights.|564232e7bb9554b70f792bfd1ac675f303e28b274b05c8dc29a46d475cf2e9b4|region.redish markup.error.sublime_linter|32",
+								"SL.rubylint.Highlights.|d7aca30e1ea2d825ac8fa32aaffdcf723e766e45cd8af7e1914f99515b5d3321|region.redish markup.error.sublime_linter|32",
+								"SL.rubylint.Highlights.|0351522128f0ee4190deb2145f772899492b3f9975777387b7517db2e37d6b4b|region.redish markup.error.sublime_linter|32",
+								"SL.rubylint.Highlights.|05246979cdd5db8fe5c2bc442b1a662f4ef7fada322e2a195a87b7c4accc4b6e|region.redish markup.error.sublime_linter|32",
+								"SL.rubylint.Highlights.|6f52073a77eb7d1a0459a34ffb6398c3427352f09e02e7d2c7a1045b64e602e7|region.redish markup.error.sublime_linter|32",
+								"SL.rubylint.Highlights.|de7ad52e664c9aa10699bb51f23d9dfcb6fb237ae34fa2406ba54ce0dd8a91af|region.redish markup.error.sublime_linter|32",
+								"SL.rubylint.Highlights.|1119f464d583c1b6a5b8b864ee12818cc993450317074a85d3feee9ed50d0f2f|region.redish markup.error.sublime_linter|32",
+								"sublime_linter.protected_regions",
+								"SL.rubylint.Highlights.|9c2c76d2c20d5e0edfc00d7916d9b3dd9ffd0f9ea1e9b72453aef5fff1e1d6af|region.redish markup.error.sublime_linter|32"
+							],
+							"SL.54.region_keys":
+							[
+								"SL.rubylint.Highlights.|156cf3a1fd39728ec40af3f1f7a6a82792027fff1bb0ecc8be18996711600caa|region.redish markup.deleted.sublime_linter markup.error.sublime_linter|32",
+								"SL.rubylint.Highlights.|aa43687816b8432bf5b5d317ab9f115b2271ce7c346ebd131274ca145a51846b|region.redish markup.deleted.sublime_linter markup.error.sublime_linter|32",
+								"SL.rubylint.Highlights.|f51cf221dcef42b30c033f4b15ae89b5aae687a19c9a4423cddccdd289d0f5b0|region.redish markup.deleted.sublime_linter markup.error.sublime_linter|32",
+								"SL.rubylint.Highlights.|965c2bc0c1bddd74947b1bb5b297f53e251f83edbeab00e84b72b9a0be6e4126|region.redish markup.deleted.sublime_linter markup.error.sublime_linter|32",
+								"SL.rubylint.Highlights.|6f52073a77eb7d1a0459a34ffb6398c3427352f09e02e7d2c7a1045b64e602e7|region.redish markup.deleted.sublime_linter markup.error.sublime_linter|32",
+								"SL.rubylint.Highlights.|cefcefc465dfb69c09607a58925f1717859788c1c89d6656c9088c7c4db4189d|region.redish markup.deleted.sublime_linter markup.error.sublime_linter|32",
+								"sublime_linter.protected_regions",
+								"SL.rubylint.Highlights.|1119f464d583c1b6a5b8b864ee12818cc993450317074a85d3feee9ed50d0f2f|region.redish markup.deleted.sublime_linter markup.error.sublime_linter|32",
+								"SL.rubylint.Highlights.|05246979cdd5db8fe5c2bc442b1a662f4ef7fada322e2a195a87b7c4accc4b6e|region.redish markup.deleted.sublime_linter markup.error.sublime_linter|32",
+								"SL.rubylint.Highlights.|1725a00aba254fd5a26af14d3ff39c56987b10d80ab2d5113e2b26adcdaba769|region.redish markup.deleted.sublime_linter markup.error.sublime_linter|32",
+								"SL.rubylint.Highlights.|714ecfc274dcee9ca2094a476bef38d7fb7233a087920ca95b76553033a3994f|region.redish markup.deleted.sublime_linter markup.error.sublime_linter|32",
+								"SL.rubylint.Highlights.|27458164e2e966e30457e4f3fb3cd7eebc03d48e61a3233873edcde9f328827b|region.redish markup.deleted.sublime_linter markup.error.sublime_linter|32",
+								"SL.rubylint.Highlights.|0351522128f0ee4190deb2145f772899492b3f9975777387b7517db2e37d6b4b|region.redish markup.deleted.sublime_linter markup.error.sublime_linter|32",
+								"SL.rubylint.Highlights.|9c2c76d2c20d5e0edfc00d7916d9b3dd9ffd0f9ea1e9b72453aef5fff1e1d6af|region.redish markup.deleted.sublime_linter markup.error.sublime_linter|32",
+								"SL.rubylint.Highlights.|d7aca30e1ea2d825ac8fa32aaffdcf723e766e45cd8af7e1914f99515b5d3321|region.redish markup.deleted.sublime_linter markup.error.sublime_linter|32",
+								"SL.rubylint.Highlights.|298197e8c5235e67805897017304e41ca4fd3a73231b3ceec5250141b8c6f7ef|region.redish markup.deleted.sublime_linter markup.error.sublime_linter|32",
+								"SL.rubylint.Highlights.|41badd1164e49833553485e9456f48a5aa78862908ddc077fd9ef819fd3e33f2|region.redish markup.deleted.sublime_linter markup.error.sublime_linter|32",
+								"SL.rubylint.Highlights.|564232e7bb9554b70f792bfd1ac675f303e28b274b05c8dc29a46d475cf2e9b4|region.redish markup.deleted.sublime_linter markup.error.sublime_linter|32",
+								"SL.rubylint.Highlights.|de7ad52e664c9aa10699bb51f23d9dfcb6fb237ae34fa2406ba54ce0dd8a91af|region.redish markup.deleted.sublime_linter markup.error.sublime_linter|32",
+								"SL.rubylint.Gutter.|region.redish markup.deleted.sublime_linter markup.error.sublime_linter|dot"
+							],
+							"auto_complete": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										1979,
+										1982
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/dot.png",
+										"region.yellowish brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										28,
+										30
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"git_gutter_is_enabled": true,
+							"history_list_is_closing": true,
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "Gemfile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2085,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1245,
+								1245
+							]
+						],
+						"settings":
+						{
+							"SL.21.region_keys":
+							[
+							],
+							"SL.75.region_keys":
+							[
+								"SL.rubylint.Highlights.|c8bf804a9d1457f058dcb126dd393fd286369276b85cfefdff736280432d0b4a|region.redish markup.deleted.sublime_linter markup.error.sublime_linter|32",
+								"SL.rubylint.Highlights.|917a333ba560f30c9166822e112d163cf0c2eb3b2886a86d29a90d403e129eb1|region.redish markup.deleted.sublime_linter markup.error.sublime_linter|32",
+								"SL.rubylint.Highlights.|44d06a90006ba49369ec53777abcba040d7525ba228b1a9ad53b8b2bb516cc65|region.redish markup.deleted.sublime_linter markup.error.sublime_linter|32",
+								"SL.rubylint.Highlights.|262c6c221e89b75b384142e48c82c83e7ccaad69d244720dfb51fe0d195c31c3|region.redish markup.deleted.sublime_linter markup.error.sublime_linter|32",
+								"sublime_linter.protected_regions",
+								"SL.rubylint.Highlights.|dfc158da8e6ef10f7e9826241cdbb0ab374ebf8aaca1b6084815a01062f8ebdb|region.redish markup.deleted.sublime_linter markup.error.sublime_linter|32",
+								"SL.rubylint.Highlights.|d29a851d91ad040e082382e66a022a750b884b6c01feef55305eed89d8921798|region.redish markup.deleted.sublime_linter markup.error.sublime_linter|32",
+								"SL.rubylint.Highlights.|b2ed2497fcb3c783240f2813c3f03793257cf8295ccc0cbbcc9d9ba045d52782|region.redish markup.deleted.sublime_linter markup.error.sublime_linter|32",
+								"SL.rubylint.Highlights.|344d055261a19b79898c1f0b7662c7c8a5af51c17c6eefe0c357176defd670cc|region.redish markup.deleted.sublime_linter markup.error.sublime_linter|32",
+								"SL.rubylint.Highlights.|72c1ba9b9f6bf65ba01a3537b47d4164ca115f09d111c7440209ad5dee72d421|region.redish markup.deleted.sublime_linter markup.error.sublime_linter|32",
+								"SL.rubylint.Highlights.|99d1a6fae304ae5010c7ec2f44f09c6f5c218aa617159380cde57e0753fa4709|region.redish markup.deleted.sublime_linter markup.error.sublime_linter|32",
+								"SL.rubylint.Highlights.|b42ab5fee67796d3b1c7ae1d118f462965be9afd6b50664bfa06f9e90566dd13|region.redish markup.deleted.sublime_linter markup.error.sublime_linter|32",
+								"SL.rubylint.Highlights.|5936e5177025ebb1a728cfa47d6ac7714d510d809ff4b32738ef973a09e30d92|region.redish markup.deleted.sublime_linter markup.error.sublime_linter|32",
+								"SL.rubylint.Highlights.|1fa3eb91d491230b921b10877acccff0466fa8cfe21ff5eca032c51a4371c083|region.redish markup.deleted.sublime_linter markup.error.sublime_linter|32",
+								"SL.rubylint.Highlights.|cdaa7d3f06a2560365b35c6ccede71326e8d5b30a2120107ee2dd5dc64441af5|region.redish markup.deleted.sublime_linter markup.error.sublime_linter|32",
+								"SL.rubylint.Highlights.|ad6c4c56a3d5a8bb80750d3f0f275fb2a1fe5a2db70946210e57887c5f73951f|region.redish markup.deleted.sublime_linter markup.error.sublime_linter|32",
+								"SL.rubylint.Highlights.|4e824a511ab58ba0961f490d49a9b064df908905dfbdf8e253e037412fe8bdd2|region.redish markup.deleted.sublime_linter markup.error.sublime_linter|32",
+								"SL.rubylint.Highlights.|c8e7935ef30dddcdc70d458704b919d46cdaf2b695c3460282a782e6ca064ccf|region.redish markup.deleted.sublime_linter markup.error.sublime_linter|32",
+								"SL.rubylint.Highlights.|cdc067b6878d17dc39d14533ce3e09c4013e9e4ea3a9f70f198d7ad4c1676abb|region.redish markup.deleted.sublime_linter markup.error.sublime_linter|32",
+								"SL.rubylint.Highlights.|e134b13c9a8ae4d7a75869f79855e41daa28ba7896cecf7e8b5e7059f9344821|region.redish markup.deleted.sublime_linter markup.error.sublime_linter|32",
+								"SL.rubylint.Highlights.|80a467f7da5fad16941a7304247e2900f05d25aff60e6b6bb68d821a9263fe4d|region.redish markup.deleted.sublime_linter markup.error.sublime_linter|32",
+								"SL.rubylint.Highlights.|823bd62d76466bf9270f575889c54fcbaa9c8fa556758a95fbc158cd32ee6a72|region.redish markup.deleted.sublime_linter markup.error.sublime_linter|32",
+								"SL.rubylint.Highlights.|127341cfb0e3a26165d4c4076b70c0462943944cc24597c70016aaaec8c210e3|region.redish markup.deleted.sublime_linter markup.error.sublime_linter|32",
+								"SL.rubylint.Highlights.|1a3f1c65fc7e8a8e8cf1a2d93d130079e08307e003e00ff3ba97d2fa45ba6d64|region.redish markup.deleted.sublime_linter markup.error.sublime_linter|32",
+								"SL.rubylint.Gutter.|region.redish markup.deleted.sublime_linter markup.error.sublime_linter|dot",
+								"SL.rubylint.Highlights.|a956e14d27eb41a989819414a52f4a891d0dad1da82b4a7f442841534472f683|region.redish markup.deleted.sublime_linter markup.error.sublime_linter|32"
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "app/views/productos/index.html.erb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1902,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"SL.22.region_keys":
+							[
+							],
+							"SL.83.region_keys":
+							[
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										359,
+										362
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/tag.png",
+										"region.orangish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										1,
+										4
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Rails/HTML (Rails).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 43.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 115.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "stick.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"index",
+				"app\\views\\productos\\index.html.erb"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"produc",
+				"app\\controllers\\productos_controller.rb"
+			],
+			[
+				"data",
+				"config\\database.yml"
+			],
+			[
+				".git",
+				".gitignore"
+			],
+			[
+				"route",
+				"config\\routes.rb"
+			],
+			[
+				"apllica",
+				"app\\views\\layouts\\application.html.erb"
+			],
+			[
+				"devel",
+				"config\\environments\\development.rb"
+			],
+			[
+				"ge",
+				"Gemfile"
+			],
+			[
+				"applica",
+				"app\\views\\layouts\\application.html.erb"
+			],
+			[
+				"develo",
+				"config\\environments\\development.rb"
+			],
+			[
+				"user",
+				"app\\models\\user.rb"
+			],
+			[
+				"application",
+				"app\\views\\layouts\\application.html.erb"
+			],
+			[
+				"application.",
+				"app\\views\\layouts\\application.html.erb"
+			],
+			[
+				"cert",
+				"app\\View\\Mascotas\\certificado2.ctp"
+			],
+			[
+				"routes",
+				"config\\routes.rb"
+			],
+			[
+				"certificad",
+				"app\\View\\Mascotas\\certificado2.ctp"
+			],
+			[
+				"c_",
+				"app\\View\\Mascotas\\c_exportacion.ctp"
+			],
+			[
+				"bs",
+				"app\\views\\personas\\bs_ci_ajax.html.erb"
+			],
+			[
+				"fallo",
+				"app\\views\\personas\\fallo.html.erb"
+			],
+			[
+				"personas",
+				"app\\controllers\\personas_controller.rb"
+			],
+			[
+				"denunc",
+				"app\\controllers\\denuncia_controller.rb"
+			],
+			[
+				"imprim",
+				"app\\views\\personas\\imprime.html.erb"
+			],
+			[
+				"app",
+				"app\\Controller\\AppController.php"
+			],
+			[
+				"usuarios",
+				"app\\Controller\\UsuariosController.php"
+			],
+			[
+				"registro",
+				"app\\View\\Usuarios\\registro_propietario.ctp"
+			],
+			[
+				"den",
+				"app\\Controller\\DenunciaservicioController.php"
+			],
+			[
+				"inde",
+				"app\\View\\Denunciaservicio\\index.ctp"
+			],
+			[
+				"listadop",
+				"app\\View\\Propietarios\\listadopendientes.ctp"
+			],
+			[
+				"index.ct",
+				"app\\View\\Mascotas\\index.ctp"
+			],
+			[
+				"masco",
+				"app\\Controller\\MascotasController.php"
+			],
+			[
+				"propi",
+				"app\\Controller\\PropietariosController.php"
+			],
+			[
+				"listaregis",
+				"app\\View\\Eventos\\listaregistrados.ctp"
+			],
+			[
+				"listadopen",
+				"app\\View\\Propietarios\\listadopendientes.ctp"
+			],
+			[
+				"listapen",
+				"app\\View\\Mascotas\\listapendientes.ctp"
+			],
+			[
+				"edita",
+				"app\\View\\Eventos\\edita.ctp"
+			],
+			[
+				"even",
+				"app\\Controller\\EventosController.php"
+			],
+			[
+				"insertar",
+				"app\\View\\Eventos\\insertar.ctp"
+			],
+			[
+				"busca",
+				"app\\views\\denuncia\\busca_ci_ajax.html.erb"
+			],
+			[
+				"_form",
+				"app\\views\\denuncia\\_form.html.erb"
+			],
+			[
+				"new",
+				"app\\views\\denuncia\\new.html.erb"
+			],
+			[
+				"application.h",
+				"app\\views\\layouts\\application.html.erb"
+			],
+			[
+				"applic",
+				"app\\controllers\\application_controller.rb"
+			],
+			[
+				"impres",
+				"app\\views\\denuncia\\impresion.html.erb"
+			],
+			[
+				"denuncia_con",
+				"app\\controllers\\denuncia_controller.rb"
+			],
+			[
+				"cata",
+				"app\\View\\Eventos\\catalogo_inicial.ctp"
+			],
+			[
+				"core",
+				"app\\Config\\core.php"
+			],
+			[
+				"mascotas",
+				"app\\Controller\\MascotasController.php"
+			],
+			[
+				"inscrip",
+				"app\\View\\Usuarios\\inscripcion.ctp"
+			],
+			[
+				"login",
+				"app\\View\\Users\\login.ctp"
+			],
+			[
+				"mascota",
+				"app\\Model\\Mascota.php"
+			],
+			[
+				"duplicados",
+				"app\\View\\Mascotas\\duplicados_kcb.ctp"
+			],
+			[
+				"dupl",
+				"app\\View\\Mascotas\\duplicados_kcb.ctp"
+			],
+			[
+				"insc",
+				"app\\View\\Usuarios\\insertarservicio.ctp"
+			],
+			[
+				"inscni",
+				"app\\View\\Usuarios\\inscripcion.ctp"
+			],
+			[
+				"usua",
+				"app\\Controller\\UsuariosController.php"
+			],
+			[
+				"usu",
+				"app\\Model\\Usuario.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 311.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
