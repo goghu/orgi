@@ -17,7 +17,7 @@ class CategoriaControllerTest < ActionDispatch::IntegrationTest
 
   test "should create categorium" do
     assert_difference('Categorium.count') do
-      post categoria_url, params: { categorium: { borrado: @categorium.borrado, estado: @categorium.estado, nombre: @categorium.nombre } }
+      post categoria_url, params: { categorium: { borrado: @categorium.borrado, descripcion: @categorium.descripcion, icono_id: @categorium.icono_id, movimiento: @categorium.movimiento, nombre: @categorium.nombre, tipo: @categorium.tipo, user_id: @categorium.user_id } }
     end
 
     assert_redirected_to categorium_url(Categorium.last)
@@ -34,7 +34,7 @@ class CategoriaControllerTest < ActionDispatch::IntegrationTest
   end
 
   test "should update categorium" do
-    patch categorium_url(@categorium), params: { categorium: { borrado: @categorium.borrado, estado: @categorium.estado, nombre: @categorium.nombre } }
+    patch categorium_url(@categorium), params: { categorium: { borrado: @categorium.borrado, descripcion: @categorium.descripcion, icono_id: @categorium.icono_id, movimiento: @categorium.movimiento, nombre: @categorium.nombre, tipo: @categorium.tipo, user_id: @categorium.user_id } }
     assert_redirected_to categorium_url(@categorium)
   end
 

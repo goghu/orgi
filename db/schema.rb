@@ -10,7 +10,19 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20180522215035) do
+ActiveRecord::Schema.define(version: 20180723022203) do
+
+  create_table "categoria", force: :cascade, options: "ENGINE=InnoDB DEFAULT CHARSET=latin1" do |t|
+    t.integer "user_id"
+    t.integer "icono_id"
+    t.string "nombre", limit: 50
+    t.string "tipo", limit: 30
+    t.string "movimiento", limit: 30
+    t.string "descripcion", limit: 500
+    t.datetime "borrado"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+  end
 
   create_table "users", force: :cascade, options: "ENGINE=InnoDB DEFAULT CHARSET=latin1" do |t|
     t.string "nombre"

@@ -1,6 +1,6 @@
 require 'test_helper'
 
-class PagosControllerTest < ActionDispatch::IntegrationTest
+class CategoriaTest < ActiveSupport::TestCase
   # test "the truth" do
   #   assert true
   # end

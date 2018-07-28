@@ -1,0 +1,52 @@
+<%= form_with(model: categorium, local: true) do |form| %>
+  <% if categorium.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(categorium.errors.count, "error") %> prohibited this categorium from being saved:</h2>
+
+      <ul>
+      <% categorium.errors.full_messages.each do |message| %>
+        <li><%= message %></li>
+      <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+  <div class="field">
+    <%= form.label :user_id %>
+    <%= form.number_field :user_id, id: :categorium_user_id %>
+  </div>
+
+  <div class="field">
+    <%= form.label :icono_id %>
+    <%= form.number_field :icono_id, id: :categorium_icono_id %>
+  </div>
+
+  <div class="field">
+    <%= form.label :nombre %>
+    <%= form.text_field :nombre, id: :categorium_nombre %>
+  </div>
+
+  <div class="field">
+    <%= form.label :tipo %>
+    <%= form.text_field :tipo, id: :categorium_tipo %>
+  </div>
+
+  <div class="field">
+    <%= form.label :movimiento %>
+    <%= form.text_field :movimiento, id: :categorium_movimiento %>
+  </div>
+
+  <div class="field">
+    <%= form.label :descripcion %>
+    <%= form.text_field :descripcion, id: :categorium_descripcion %>
+  </div>
+
+  <div class="field">
+    <%= form.label :borrado %>
+    <%= form.datetime_select :borrado, id: :categorium_borrado %>
+  </div>
+
+  <div class="actions">
+    <%= form.submit %>
+  </div>
+<% end %>

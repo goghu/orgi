@@ -1,0 +1,39 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>User:</strong>
+  <%= @categorium.user_id %>
+</p>
+
+<p>
+  <strong>Icono:</strong>
+  <%= @categorium.icono_id %>
+</p>
+
+<p>
+  <strong>Nombre:</strong>
+  <%= @categorium.nombre %>
+</p>
+
+<p>
+  <strong>Tipo:</strong>
+  <%= @categorium.tipo %>
+</p>
+
+<p>
+  <strong>Movimiento:</strong>
+  <%= @categorium.movimiento %>
+</p>
+
+<p>
+  <strong>Descripcion:</strong>
+  <%= @categorium.descripcion %>
+</p>
+
+<p>
+  <strong>Borrado:</strong>
+  <%= @categorium.borrado %>
+</p>
+
+<%= link_to 'Edit', edit_categorium_path(@categorium) %> |
+<%= link_to 'Back', categoria_path %>

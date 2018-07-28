@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+  resources :categoria
   # get '/users/sign_in', to: 'users/sessions#new', as: 'new_user_session'
   # post '/users/sign_in', to: 'users/sessions#create', as: 'user_session'
   devise_for :users, path: 'usuarios', controllers: { sessions: 'users/sessions' }
