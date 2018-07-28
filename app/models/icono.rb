@@ -1,0 +1,2 @@
+class Icono < ApplicationRecord
+end

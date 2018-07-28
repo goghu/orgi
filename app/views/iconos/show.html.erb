@@ -1,0 +1,14 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Nombre:</strong>
+  <%= @icono.nombre %>
+</p>
+
+<p>
+  <strong>Direccion:</strong>
+  <%= @icono.direccion %>
+</p>
+
+<%= link_to 'Edit', edit_icono_path(@icono) %> |
+<%= link_to 'Back', iconos_path %>

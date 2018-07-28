@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user_id: 1
+  categoria_id: 1
+  monto: 9.99
+  estado: MyString
+  fecha_inicio: 2018-07-28
+  fecha_fin: 2018-07-28
+  borrado: 2018-07-28 11:07:32
+
+two:
+  user_id: 1
+  categoria_id: 1
+  monto: 9.99
+  estado: MyString
+  fecha_inicio: 2018-07-28
+  fecha_fin: 2018-07-28
+  borrado: 2018-07-28 11:07:32

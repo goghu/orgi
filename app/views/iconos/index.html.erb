@@ -1,0 +1,29 @@
+<p id="notice"><%= notice %></p>
+
+<h1>Iconos</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>Nombre</th>
+      <th>Direccion</th>
+      <th colspan="3"></th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <% @iconos.each do |icono| %>
+      <tr>
+        <td><%= icono.nombre %></td>
+        <td><%= icono.direccion %></td>
+        <td><%= link_to 'Show', icono %></td>
+        <td><%= link_to 'Edit', edit_icono_path(icono) %></td>
+        <td><%= link_to 'Destroy', icono, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+
+<br>
+
+<%= link_to 'New Icono', new_icono_path %>

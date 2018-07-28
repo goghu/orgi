@@ -1,0 +1,23 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user_id: 1
+  categoria_id: 1
+  proyecto_id: 1
+  monto: 9.99
+  tipo: MyString
+  nota: MyString
+  estado: MyString
+  fecha: 2018-07-28
+  borrado: 2018-07-28 10:55:18
+
+two:
+  user_id: 1
+  categoria_id: 1
+  proyecto_id: 1
+  monto: 9.99
+  tipo: MyString
+  nota: MyString
+  estado: MyString
+  fecha: 2018-07-28
+  borrado: 2018-07-28 10:55:18

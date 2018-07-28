@@ -1,0 +1,52 @@
+<%= form_with(model: presupuesto, local: true) do |form| %>
+  <% if presupuesto.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(presupuesto.errors.count, "error") %> prohibited this presupuesto from being saved:</h2>
+
+      <ul>
+      <% presupuesto.errors.full_messages.each do |message| %>
+        <li><%= message %></li>
+      <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+  <div class="field">
+    <%= form.label :user_id %>
+    <%= form.number_field :user_id, id: :presupuesto_user_id %>
+  </div>
+
+  <div class="field">
+    <%= form.label :categoria_id %>
+    <%= form.number_field :categoria_id, id: :presupuesto_categoria_id %>
+  </div>
+
+  <div class="field">
+    <%= form.label :monto %>
+    <%= form.text_field :monto, id: :presupuesto_monto %>
+  </div>
+
+  <div class="field">
+    <%= form.label :estado %>
+    <%= form.text_field :estado, id: :presupuesto_estado %>
+  </div>
+
+  <div class="field">
+    <%= form.label :fecha_inicio %>
+    <%= form.date_select :fecha_inicio, id: :presupuesto_fecha_inicio %>
+  </div>
+
+  <div class="field">
+    <%= form.label :fecha_fin %>
+    <%= form.date_select :fecha_fin, id: :presupuesto_fecha_fin %>
+  </div>
+
+  <div class="field">
+    <%= form.label :borrado %>
+    <%= form.datetime_select :borrado, id: :presupuesto_borrado %>
+  </div>
+
+  <div class="actions">
+    <%= form.submit %>
+  </div>
+<% end %>

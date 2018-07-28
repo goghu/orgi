@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user_id: 1
+  nombre: MyString
+  telefono: MyString
+  estado: MyString
+  observaciones: MyString
+  borrado: 2018-07-28 10:20:46
+
+two:
+  user_id: 1
+  nombre: MyString
+  telefono: MyString
+  estado: MyString
+  observaciones: MyString
+  borrado: 2018-07-28 10:20:46

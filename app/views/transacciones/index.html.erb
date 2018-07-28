@@ -1,0 +1,43 @@
+<p id="notice"><%= notice %></p>
+
+<h1>Transacciones</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>User</th>
+      <th>Categoria</th>
+      <th>Proyecto</th>
+      <th>Monto</th>
+      <th>Tipo</th>
+      <th>Nota</th>
+      <th>Estado</th>
+      <th>Fecha</th>
+      <th>Borrado</th>
+      <th colspan="3"></th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <% @transacciones.each do |transaccione| %>
+      <tr>
+        <td><%= transaccione.user_id %></td>
+        <td><%= transaccione.categoria_id %></td>
+        <td><%= transaccione.proyecto_id %></td>
+        <td><%= transaccione.monto %></td>
+        <td><%= transaccione.tipo %></td>
+        <td><%= transaccione.nota %></td>
+        <td><%= transaccione.estado %></td>
+        <td><%= transaccione.fecha %></td>
+        <td><%= transaccione.borrado %></td>
+        <td><%= link_to 'Show', transaccione %></td>
+        <td><%= link_to 'Edit', edit_transaccione_path(transaccione) %></td>
+        <td><%= link_to 'Destroy', transaccione, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+
+<br>
+
+<%= link_to 'New Transaccione', new_transaccione_path %>

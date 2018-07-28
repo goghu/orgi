@@ -2,18 +2,18 @@
 
 one:
   user_id: 1
-  icono_id: 1
+  icon_id: 1
   nombre: MyString
   tipo: MyString
   movimiento: MyString
   descripcion: MyString
-  borrado: 2018-07-22 22:22:03
+  borrado: 2018-07-28 09:57:38
 
 two:
   user_id: 1
-  icono_id: 1
+  icon_id: 1
   nombre: MyString
   tipo: MyString
   movimiento: MyString
   descripcion: MyString
-  borrado: 2018-07-22 22:22:03
+  borrado: 2018-07-28 09:57:38

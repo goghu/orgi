@@ -1,4 +1,10 @@
 Rails.application.routes.draw do
+  resources :iconos
+  resources :presupuestos
+  resources :tareas
+  resources :proyectos
+  resources :transacciones
+  resources :clientes
   resources :categoria
   # get '/users/sign_in', to: 'users/sessions#new', as: 'new_user_session'
   # post '/users/sign_in', to: 'users/sessions#create', as: 'user_session'

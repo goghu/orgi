@@ -1,0 +1,62 @@
+<%= form_with(model: tarea, local: true) do |form| %>
+  <% if tarea.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(tarea.errors.count, "error") %> prohibited this tarea from being saved:</h2>
+
+      <ul>
+      <% tarea.errors.full_messages.each do |message| %>
+        <li><%= message %></li>
+      <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+  <div class="field">
+    <%= form.label :user_id %>
+    <%= form.number_field :user_id, id: :tarea_user_id %>
+  </div>
+
+  <div class="field">
+    <%= form.label :proyecto_id %>
+    <%= form.number_field :proyecto_id, id: :tarea_proyecto_id %>
+  </div>
+
+  <div class="field">
+    <%= form.label :categoria_id %>
+    <%= form.number_field :categoria_id, id: :tarea_categoria_id %>
+  </div>
+
+  <div class="field">
+    <%= form.label :descripcion %>
+    <%= form.text_field :descripcion, id: :tarea_descripcion %>
+  </div>
+
+  <div class="field">
+    <%= form.label :prioridad %>
+    <%= form.text_field :prioridad, id: :tarea_prioridad %>
+  </div>
+
+  <div class="field">
+    <%= form.label :fecha_inicio %>
+    <%= form.datetime_select :fecha_inicio, id: :tarea_fecha_inicio %>
+  </div>
+
+  <div class="field">
+    <%= form.label :fecha_fin %>
+    <%= form.datetime_select :fecha_fin, id: :tarea_fecha_fin %>
+  </div>
+
+  <div class="field">
+    <%= form.label :tiempo %>
+    <%= form.text_field :tiempo, id: :tarea_tiempo %>
+  </div>
+
+  <div class="field">
+    <%= form.label :borrado %>
+    <%= form.datetime_select :borrado, id: :tarea_borrado %>
+  </div>
+
+  <div class="actions">
+    <%= form.submit %>
+  </div>
+<% end %>

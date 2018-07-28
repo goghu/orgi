@@ -1,0 +1,62 @@
+<%= form_with(model: transaccione, local: true) do |form| %>
+  <% if transaccione.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(transaccione.errors.count, "error") %> prohibited this transaccione from being saved:</h2>
+
+      <ul>
+      <% transaccione.errors.full_messages.each do |message| %>
+        <li><%= message %></li>
+      <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+  <div class="field">
+    <%= form.label :user_id %>
+    <%= form.number_field :user_id, id: :transaccione_user_id %>
+  </div>
+
+  <div class="field">
+    <%= form.label :categoria_id %>
+    <%= form.number_field :categoria_id, id: :transaccione_categoria_id %>
+  </div>
+
+  <div class="field">
+    <%= form.label :proyecto_id %>
+    <%= form.number_field :proyecto_id, id: :transaccione_proyecto_id %>
+  </div>
+
+  <div class="field">
+    <%= form.label :monto %>
+    <%= form.text_field :monto, id: :transaccione_monto %>
+  </div>
+
+  <div class="field">
+    <%= form.label :tipo %>
+    <%= form.text_field :tipo, id: :transaccione_tipo %>
+  </div>
+
+  <div class="field">
+    <%= form.label :nota %>
+    <%= form.text_field :nota, id: :transaccione_nota %>
+  </div>
+
+  <div class="field">
+    <%= form.label :estado %>
+    <%= form.text_field :estado, id: :transaccione_estado %>
+  </div>
+
+  <div class="field">
+    <%= form.label :fecha %>
+    <%= form.date_select :fecha, id: :transaccione_fecha %>
+  </div>
+
+  <div class="field">
+    <%= form.label :borrado %>
+    <%= form.datetime_select :borrado, id: :transaccione_borrado %>
+  </div>
+
+  <div class="actions">
+    <%= form.submit %>
+  </div>
+<% end %>

@@ -1,0 +1,49 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>User:</strong>
+  <%= @transaccione.user_id %>
+</p>
+
+<p>
+  <strong>Categoria:</strong>
+  <%= @transaccione.categoria_id %>
+</p>
+
+<p>
+  <strong>Proyecto:</strong>
+  <%= @transaccione.proyecto_id %>
+</p>
+
+<p>
+  <strong>Monto:</strong>
+  <%= @transaccione.monto %>
+</p>
+
+<p>
+  <strong>Tipo:</strong>
+  <%= @transaccione.tipo %>
+</p>
+
+<p>
+  <strong>Nota:</strong>
+  <%= @transaccione.nota %>
+</p>
+
+<p>
+  <strong>Estado:</strong>
+  <%= @transaccione.estado %>
+</p>
+
+<p>
+  <strong>Fecha:</strong>
+  <%= @transaccione.fecha %>
+</p>
+
+<p>
+  <strong>Borrado:</strong>
+  <%= @transaccione.borrado %>
+</p>
+
+<%= link_to 'Edit', edit_transaccione_path(@transaccione) %> |
+<%= link_to 'Back', transacciones_path %>
