@@ -5,7 +5,11 @@ class TransaccionesController < ApplicationController
   # GET /transacciones
   # GET /transacciones.json
   def index
-    @transacciones = Transaccione.all
+    # @transacciones = Transaccione.all
+    respond_to do |format|
+      format.html
+      format.json { render json: TransaccionesDatatable.new(view_context) }
+    end
   end
 
   # GET /transacciones/1
